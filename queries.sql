@@ -240,3 +240,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add validation — iteration 46 (2026)
 - Add feature — iteration 48 (2026)
 - Polish code — iteration 49 (2026)
+- Add validation — iteration 53 (2026)
