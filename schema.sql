@@ -34,3 +34,4 @@ CREATE TABLE notes (
 - Fix lint warnings — iteration 47 (2015)
 - Optimize performance — iteration 50 (2015)
 - Extend coverage — iteration 54 (2015)
+- Fix edge case — iteration 55 (2015)
