@@ -29,3 +29,4 @@ CREATE TABLE notes (
 - Add tests — iteration 32 (2015)
 - Optimize performance — iteration 33 (2015)
 - Add tests — iteration 36 (2015)
+- Fix edge case — iteration 38 (2015)
