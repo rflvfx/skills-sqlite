@@ -32,3 +32,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 38 (2015)
 - Update config — iteration 42 (2015)
 - Fix lint warnings — iteration 47 (2015)
+- Optimize performance — iteration 50 (2015)
