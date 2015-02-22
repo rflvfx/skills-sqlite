@@ -15,3 +15,4 @@ CREATE TABLE notes (
 - Update config — iteration 9 (2015)
 - Fix edge case — iteration 10 (2015)
 - Add tests — iteration 11 (2015)
+- Extend coverage — iteration 12 (2015)
