@@ -19,3 +19,4 @@ CREATE TABLE notes (
 - Improve naming — iteration 14 (2015)
 - Add validation — iteration 15 (2015)
 - Add validation — iteration 16 (2015)
+- Improve naming — iteration 17 (2015)
