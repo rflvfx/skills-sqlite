@@ -9,3 +9,4 @@
 - Fix edge case — iteration 22 (2015)
 - Update dependencies — iteration 27 (2015)
 - Refactor module — iteration 29 (2015)
+- Improve error handling — iteration 31 (2015)
