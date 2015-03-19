@@ -7,3 +7,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update dependencies — iteration 28 (2015)
 - Add tests — iteration 35 (2015)
 - Fix edge case — iteration 40 (2015)
+- Add validation — iteration 44 (2015)
