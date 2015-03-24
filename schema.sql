@@ -38,3 +38,4 @@ CREATE TABLE notes (
 - Update docs — iteration 56 (2015)
 - Optimize performance — iteration 57 (2015)
 - Update config — iteration 58 (2015)
+- Improve error handling — iteration 59 (2015)
