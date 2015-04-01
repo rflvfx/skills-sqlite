@@ -36,3 +36,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 54 (2015)
 - Fix edge case — iteration 55 (2015)
 - Update docs — iteration 56 (2015)
+- Optimize performance — iteration 57 (2015)
