@@ -13,3 +13,4 @@
 - Optimize performance — iteration 34 (2015)
 - Add helper — iteration 37 (2015)
 - Add tests — iteration 39 (2015)
+- Improve naming — iteration 41 (2015)
