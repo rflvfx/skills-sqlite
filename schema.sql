@@ -30,3 +30,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 33 (2015)
 - Add tests — iteration 36 (2015)
 - Fix edge case — iteration 38 (2015)
+- Update config — iteration 42 (2015)
