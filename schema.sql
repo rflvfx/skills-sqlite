@@ -37,3 +37,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 55 (2015)
 - Update docs — iteration 56 (2015)
 - Optimize performance — iteration 57 (2015)
+- Update config — iteration 58 (2015)
