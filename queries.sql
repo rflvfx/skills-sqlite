@@ -5,3 +5,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update config — iteration 20 (2015)
 - Optimize performance — iteration 23 (2015)
 - Update dependencies — iteration 28 (2015)
+- Add tests — iteration 35 (2015)
