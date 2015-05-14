@@ -21,3 +21,4 @@ CREATE TABLE notes (
 - Add validation — iteration 16 (2015)
 - Improve naming — iteration 17 (2015)
 - Fix typo — iteration 18 (2015)
+- Optimize performance — iteration 21 (2015)
