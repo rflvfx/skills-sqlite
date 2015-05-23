@@ -11,3 +11,4 @@
 - Refactor module — iteration 29 (2015)
 - Improve error handling — iteration 31 (2015)
 - Optimize performance — iteration 34 (2015)
+- Add helper — iteration 37 (2015)
