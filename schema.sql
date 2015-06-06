@@ -17,3 +17,4 @@ CREATE TABLE notes (
 - Add tests — iteration 11 (2015)
 - Extend coverage — iteration 12 (2015)
 - Improve naming — iteration 14 (2015)
+- Add validation — iteration 15 (2015)
