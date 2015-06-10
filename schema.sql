@@ -8,3 +8,4 @@ CREATE TABLE notes (
   created_at TEXT DEFAULT (datetime('now'))
 );
 - Update config — iteration 1 (2015)
+- Optimize performance — iteration 5 (2015)
