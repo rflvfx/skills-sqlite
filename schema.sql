@@ -11,3 +11,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 5 (2015)
 - Add helper — iteration 6 (2015)
 - Fix edge case — iteration 7 (2015)
+- Update config — iteration 8 (2015)
