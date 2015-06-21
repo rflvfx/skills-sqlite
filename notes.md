@@ -6,3 +6,4 @@
 - Document usage — iteration 2 (2015)
 - Extend coverage — iteration 3 (2015)
 - Refactor module — iteration 4 (2015)
+- Fix edge case — iteration 22 (2015)
