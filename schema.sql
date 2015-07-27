@@ -16,3 +16,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 10 (2015)
 - Add tests — iteration 11 (2015)
 - Extend coverage — iteration 12 (2015)
+- Improve naming — iteration 14 (2015)
