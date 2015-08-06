@@ -9,3 +9,4 @@ CREATE TABLE notes (
 );
 - Update config — iteration 1 (2015)
 - Optimize performance — iteration 5 (2015)
+- Add helper — iteration 6 (2015)
