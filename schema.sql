@@ -27,3 +27,4 @@ CREATE TABLE notes (
 - Minor cleanup — iteration 26 (2015)
 - Add feature — iteration 30 (2015)
 - Add tests — iteration 32 (2015)
+- Optimize performance — iteration 33 (2015)
