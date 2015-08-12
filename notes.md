@@ -15,3 +15,4 @@
 - Add tests — iteration 39 (2015)
 - Improve naming — iteration 41 (2015)
 - Improve error handling — iteration 43 (2015)
+- Fix lint warnings — iteration 46 (2015)
