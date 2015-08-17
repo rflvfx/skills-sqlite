@@ -26,3 +26,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 25 (2015)
 - Minor cleanup — iteration 26 (2015)
 - Add feature — iteration 30 (2015)
+- Add tests — iteration 32 (2015)
