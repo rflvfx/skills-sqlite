@@ -24,3 +24,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 21 (2015)
 - Add validation — iteration 24 (2015)
 - Extend coverage — iteration 25 (2015)
+- Minor cleanup — iteration 26 (2015)
