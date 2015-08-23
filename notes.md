@@ -7,3 +7,4 @@
 - Extend coverage — iteration 3 (2015)
 - Refactor module — iteration 4 (2015)
 - Fix edge case — iteration 22 (2015)
+- Update dependencies — iteration 27 (2015)
