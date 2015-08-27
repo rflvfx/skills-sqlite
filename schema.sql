@@ -7,3 +7,4 @@ CREATE TABLE notes (
   body TEXT,
   created_at TEXT DEFAULT (datetime('now'))
 );
+- Update config — iteration 1 (2015)
