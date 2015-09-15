@@ -12,3 +12,4 @@
 - Improve error handling — iteration 31 (2015)
 - Optimize performance — iteration 34 (2015)
 - Add helper — iteration 37 (2015)
+- Add tests — iteration 39 (2015)
