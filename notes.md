@@ -14,3 +14,4 @@
 - Add helper — iteration 37 (2015)
 - Add tests — iteration 39 (2015)
 - Improve naming — iteration 41 (2015)
+- Improve error handling — iteration 43 (2015)
