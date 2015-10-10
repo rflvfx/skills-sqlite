@@ -13,3 +13,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 7 (2015)
 - Update config — iteration 8 (2015)
 - Update config — iteration 9 (2015)
+- Fix edge case — iteration 10 (2015)
