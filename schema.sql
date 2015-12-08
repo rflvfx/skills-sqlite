@@ -31,3 +31,4 @@ CREATE TABLE notes (
 - Add tests — iteration 36 (2015)
 - Fix edge case — iteration 38 (2015)
 - Update config — iteration 42 (2015)
+- Fix lint warnings — iteration 47 (2015)
