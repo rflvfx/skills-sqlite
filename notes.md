@@ -21,3 +21,4 @@
 - Add tests — iteration 60 (2015)
 - Add helper — iteration 2 (2016)
 - Optimize performance — iteration 5 (2016)
+- Add helper — iteration 8 (2016)
