@@ -50,3 +50,4 @@ CREATE TABLE notes (
 - Fix typo — iteration 28 (2016)
 - Add feature — iteration 33 (2016)
 - Improve naming — iteration 35 (2016)
+- Minor cleanup — iteration 39 (2016)
