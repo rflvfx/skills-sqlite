@@ -49,3 +49,4 @@ CREATE TABLE notes (
 - Add example — iteration 25 (2016)
 - Fix typo — iteration 28 (2016)
 - Add feature — iteration 33 (2016)
+- Improve naming — iteration 35 (2016)
