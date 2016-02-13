@@ -48,3 +48,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 22 (2016)
 - Add example — iteration 25 (2016)
 - Fix typo — iteration 28 (2016)
+- Add feature — iteration 33 (2016)
