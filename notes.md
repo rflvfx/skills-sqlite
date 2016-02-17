@@ -30,3 +30,4 @@
 - Document usage — iteration 26 (2016)
 - Polish code — iteration 30 (2016)
 - Update dependencies — iteration 32 (2016)
+- Tweak implementation — iteration 34 (2016)
