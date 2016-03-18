@@ -21,3 +21,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add validation — iteration 19 (2016)
 - Fix edge case — iteration 20 (2016)
 - Add validation — iteration 23 (2016)
+- Fix edge case — iteration 27 (2016)
