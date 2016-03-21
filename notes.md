@@ -23,3 +23,4 @@
 - Optimize performance — iteration 5 (2016)
 - Add helper — iteration 8 (2016)
 - Improve naming — iteration 13 (2016)
+- Optimize performance — iteration 14 (2016)
