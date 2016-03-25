@@ -28,3 +28,4 @@
 - Add tests — iteration 17 (2016)
 - Optimize performance — iteration 24 (2016)
 - Document usage — iteration 26 (2016)
+- Polish code — iteration 30 (2016)
