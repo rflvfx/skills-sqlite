@@ -36,3 +36,4 @@
 - Fix edge case — iteration 44 (2016)
 - Fix lint warnings — iteration 51 (2016)
 - Add example — iteration 52 (2016)
+- Polish code — iteration 55 (2016)
