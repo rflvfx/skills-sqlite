@@ -32,3 +32,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add helper — iteration 47 (2016)
 - Extend coverage — iteration 48 (2016)
 - Update dependencies — iteration 49 (2016)
+- Tweak implementation — iteration 53 (2016)
