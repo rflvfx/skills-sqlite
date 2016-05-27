@@ -29,3 +29,4 @@
 - Optimize performance — iteration 24 (2016)
 - Document usage — iteration 26 (2016)
 - Polish code — iteration 30 (2016)
+- Update dependencies — iteration 32 (2016)
