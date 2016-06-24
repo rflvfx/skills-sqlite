@@ -41,3 +41,4 @@ CREATE TABLE notes (
 - Improve error handling — iteration 59 (2015)
 - Add validation — iteration 1 (2016)
 - Polish code — iteration 3 (2016)
+- Polish code — iteration 4 (2016)
