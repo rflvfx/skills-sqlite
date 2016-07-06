@@ -52,3 +52,4 @@ CREATE TABLE notes (
 - Improve naming — iteration 35 (2016)
 - Minor cleanup — iteration 39 (2016)
 - Fix typo — iteration 43 (2016)
+- Polish code — iteration 46 (2016)
