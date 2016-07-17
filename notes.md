@@ -40,3 +40,4 @@
 - Fix typo — iteration 57 (2016)
 - Add helper — iteration 58 (2016)
 - Fix lint warnings — iteration 59 (2016)
+- Document usage — iteration 60 (2016)
