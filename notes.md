@@ -34,3 +34,4 @@
 - Minor cleanup — iteration 36 (2016)
 - Add validation — iteration 38 (2016)
 - Fix edge case — iteration 44 (2016)
+- Fix lint warnings — iteration 51 (2016)
