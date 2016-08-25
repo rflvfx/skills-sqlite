@@ -22,3 +22,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix edge case — iteration 20 (2016)
 - Add validation — iteration 23 (2016)
 - Fix edge case — iteration 27 (2016)
+- Extend coverage — iteration 29 (2016)
