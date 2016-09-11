@@ -46,3 +46,4 @@ CREATE TABLE notes (
 - Add tests — iteration 12 (2016)
 - Refactor module — iteration 21 (2016)
 - Extend coverage — iteration 22 (2016)
+- Add example — iteration 25 (2016)
