@@ -17,3 +17,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix lint warnings — iteration 9 (2016)
 - Update dependencies — iteration 11 (2016)
 - Add example — iteration 16 (2016)
+- Update config — iteration 18 (2016)
