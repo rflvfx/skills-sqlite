@@ -39,3 +39,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 57 (2015)
 - Update config — iteration 58 (2015)
 - Improve error handling — iteration 59 (2015)
+- Add validation — iteration 1 (2016)
