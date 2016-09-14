@@ -25,3 +25,4 @@
 - Improve naming — iteration 13 (2016)
 - Optimize performance — iteration 14 (2016)
 - Fix edge case — iteration 15 (2016)
+- Add tests — iteration 17 (2016)
