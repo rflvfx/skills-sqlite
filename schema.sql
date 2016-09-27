@@ -40,3 +40,4 @@ CREATE TABLE notes (
 - Update config — iteration 58 (2015)
 - Improve error handling — iteration 59 (2015)
 - Add validation — iteration 1 (2016)
+- Polish code — iteration 3 (2016)
