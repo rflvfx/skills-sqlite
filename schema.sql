@@ -51,3 +51,4 @@ CREATE TABLE notes (
 - Add feature — iteration 33 (2016)
 - Improve naming — iteration 35 (2016)
 - Minor cleanup — iteration 39 (2016)
+- Fix typo — iteration 43 (2016)
