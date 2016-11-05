@@ -26,3 +26,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add tests — iteration 31 (2016)
 - Polish code — iteration 37 (2016)
 - Refactor module — iteration 40 (2016)
+- Add tests — iteration 41 (2016)
