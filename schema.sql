@@ -45,3 +45,4 @@ CREATE TABLE notes (
 - Fix typo — iteration 10 (2016)
 - Add tests — iteration 12 (2016)
 - Refactor module — iteration 21 (2016)
+- Extend coverage — iteration 22 (2016)
