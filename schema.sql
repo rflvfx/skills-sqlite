@@ -43,3 +43,4 @@ CREATE TABLE notes (
 - Polish code — iteration 3 (2016)
 - Polish code — iteration 4 (2016)
 - Fix typo — iteration 10 (2016)
+- Add tests — iteration 12 (2016)
