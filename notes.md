@@ -32,3 +32,4 @@
 - Update dependencies — iteration 32 (2016)
 - Tweak implementation — iteration 34 (2016)
 - Minor cleanup — iteration 36 (2016)
+- Add validation — iteration 38 (2016)
