@@ -38,3 +38,4 @@
 - Add example — iteration 52 (2016)
 - Polish code — iteration 55 (2016)
 - Fix typo — iteration 57 (2016)
+- Add helper — iteration 58 (2016)
