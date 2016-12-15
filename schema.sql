@@ -47,3 +47,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 21 (2016)
 - Extend coverage — iteration 22 (2016)
 - Add example — iteration 25 (2016)
+- Fix typo — iteration 28 (2016)
