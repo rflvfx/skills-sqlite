@@ -14,3 +14,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Optimize performance — iteration 52 (2015)
 - Polish code — iteration 6 (2016)
 - Minor cleanup — iteration 7 (2016)
+- Fix lint warnings — iteration 9 (2016)
