@@ -73,3 +73,4 @@ CREATE TABLE notes (
 - Polish code — iteration 38 (2017)
 - Update docs — iteration 41 (2017)
 - Add example — iteration 43 (2017)
+- Improve naming — iteration 44 (2017)
