@@ -64,3 +64,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 14 (2017)
 - Minor cleanup — iteration 15 (2017)
 - Add feature — iteration 16 (2017)
+- Improve naming — iteration 17 (2017)
