@@ -59,3 +59,4 @@ CREATE TABLE notes (
 - Add example — iteration 5 (2017)
 - Add helper — iteration 7 (2017)
 - Extend coverage — iteration 10 (2017)
+- Update config — iteration 11 (2017)
