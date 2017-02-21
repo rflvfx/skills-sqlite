@@ -40,3 +40,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Minor cleanup — iteration 6 (2017)
 - Fix edge case — iteration 9 (2017)
 - Update dependencies — iteration 19 (2017)
+- Polish code — iteration 25 (2017)
