@@ -74,3 +74,4 @@ CREATE TABLE notes (
 - Update docs — iteration 41 (2017)
 - Add example — iteration 43 (2017)
 - Improve naming — iteration 44 (2017)
+- Add tests — iteration 46 (2017)
