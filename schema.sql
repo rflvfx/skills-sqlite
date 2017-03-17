@@ -68,3 +68,4 @@ CREATE TABLE notes (
 - Improve error handling — iteration 18 (2017)
 - Add validation — iteration 24 (2017)
 - Update docs — iteration 26 (2017)
+- Polish code — iteration 29 (2017)
