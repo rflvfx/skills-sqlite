@@ -70,3 +70,4 @@ CREATE TABLE notes (
 - Update docs — iteration 26 (2017)
 - Polish code — iteration 29 (2017)
 - Update config — iteration 37 (2017)
+- Polish code — iteration 38 (2017)
