@@ -60,3 +60,4 @@ CREATE TABLE notes (
 - Add helper — iteration 7 (2017)
 - Extend coverage — iteration 10 (2017)
 - Update config — iteration 11 (2017)
+- Add feature — iteration 13 (2017)
