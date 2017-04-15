@@ -71,3 +71,4 @@ CREATE TABLE notes (
 - Polish code — iteration 29 (2017)
 - Update config — iteration 37 (2017)
 - Polish code — iteration 38 (2017)
+- Update docs — iteration 41 (2017)
