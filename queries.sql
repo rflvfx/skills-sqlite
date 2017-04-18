@@ -48,3 +48,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Refactor module — iteration 35 (2017)
 - Fix lint warnings — iteration 36 (2017)
 - Tweak implementation — iteration 39 (2017)
+- Optimize performance — iteration 40 (2017)
