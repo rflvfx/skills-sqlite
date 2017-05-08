@@ -46,3 +46,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update config — iteration 33 (2017)
 - Update config — iteration 34 (2017)
 - Refactor module — iteration 35 (2017)
+- Fix lint warnings — iteration 36 (2017)
