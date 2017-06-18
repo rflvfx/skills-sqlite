@@ -55,3 +55,4 @@
 - Improve error handling — iteration 48 (2017)
 - Add tests — iteration 52 (2017)
 - Document usage — iteration 55 (2017)
+- Document usage — iteration 57 (2017)
