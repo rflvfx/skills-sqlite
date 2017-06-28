@@ -35,3 +35,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Tweak implementation — iteration 53 (2016)
 - Extend coverage — iteration 56 (2016)
 - Update docs — iteration 1 (2017)
+- Add validation — iteration 2 (2017)
