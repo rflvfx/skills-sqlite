@@ -54,3 +54,4 @@
 - Refactor module — iteration 45 (2017)
 - Improve error handling — iteration 48 (2017)
 - Add tests — iteration 52 (2017)
+- Document usage — iteration 55 (2017)
