@@ -56,3 +56,4 @@
 - Add tests — iteration 52 (2017)
 - Document usage — iteration 55 (2017)
 - Document usage — iteration 57 (2017)
+- Add example — iteration 58 (2017)
