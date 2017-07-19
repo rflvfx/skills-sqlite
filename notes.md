@@ -52,3 +52,4 @@
 - Tweak implementation — iteration 32 (2017)
 - Add helper — iteration 42 (2017)
 - Refactor module — iteration 45 (2017)
+- Improve error handling — iteration 48 (2017)
