@@ -58,3 +58,4 @@ CREATE TABLE notes (
 - Polish code — iteration 3 (2017)
 - Add example — iteration 5 (2017)
 - Add helper — iteration 7 (2017)
+- Extend coverage — iteration 10 (2017)
