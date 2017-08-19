@@ -42,3 +42,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update dependencies — iteration 19 (2017)
 - Polish code — iteration 25 (2017)
 - Add tests — iteration 28 (2017)
+- Add tests — iteration 31 (2017)
