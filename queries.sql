@@ -44,3 +44,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add tests — iteration 28 (2017)
 - Add tests — iteration 31 (2017)
 - Update config — iteration 33 (2017)
+- Update config — iteration 34 (2017)
