@@ -50,3 +50,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Tweak implementation — iteration 39 (2017)
 - Optimize performance — iteration 40 (2017)
 - Document usage — iteration 49 (2017)
+- Refactor module — iteration 51 (2017)
