@@ -53,3 +53,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Refactor module — iteration 51 (2017)
 - Improve naming — iteration 53 (2017)
 - Document usage — iteration 56 (2017)
+- Polish code — iteration 59 (2017)
