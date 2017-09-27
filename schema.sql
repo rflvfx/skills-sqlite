@@ -67,3 +67,4 @@ CREATE TABLE notes (
 - Improve naming — iteration 17 (2017)
 - Improve error handling — iteration 18 (2017)
 - Add validation — iteration 24 (2017)
+- Update docs — iteration 26 (2017)
