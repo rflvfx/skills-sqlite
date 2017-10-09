@@ -43,3 +43,4 @@
 - Document usage — iteration 60 (2016)
 - Improve error handling — iteration 8 (2017)
 - Fix typo — iteration 12 (2017)
+- Document usage — iteration 20 (2017)
