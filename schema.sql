@@ -78,3 +78,4 @@ CREATE TABLE notes (
 - Add validation — iteration 47 (2017)
 - Add feature — iteration 50 (2017)
 - Add helper — iteration 54 (2017)
+- Minor cleanup — iteration 60 (2017)
