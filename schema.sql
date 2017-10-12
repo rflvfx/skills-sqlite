@@ -56,3 +56,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 50 (2016)
 - Minor cleanup — iteration 54 (2016)
 - Polish code — iteration 3 (2017)
+- Add example — iteration 5 (2017)
