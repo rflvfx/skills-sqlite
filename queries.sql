@@ -49,3 +49,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix lint warnings — iteration 36 (2017)
 - Tweak implementation — iteration 39 (2017)
 - Optimize performance — iteration 40 (2017)
+- Document usage — iteration 49 (2017)
