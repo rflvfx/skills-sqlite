@@ -77,3 +77,4 @@ CREATE TABLE notes (
 - Add tests — iteration 46 (2017)
 - Add validation — iteration 47 (2017)
 - Add feature — iteration 50 (2017)
+- Add helper — iteration 54 (2017)
