@@ -36,3 +36,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Extend coverage — iteration 56 (2016)
 - Update docs — iteration 1 (2017)
 - Add validation — iteration 2 (2017)
+- Update dependencies — iteration 4 (2017)
