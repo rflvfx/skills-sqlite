@@ -50,3 +50,4 @@
 - Document usage — iteration 27 (2017)
 - Add validation — iteration 30 (2017)
 - Tweak implementation — iteration 32 (2017)
+- Add helper — iteration 42 (2017)
