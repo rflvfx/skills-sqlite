@@ -71,3 +71,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Document usage — iteration 34 (2018)
 - Update docs — iteration 36 (2018)
 - Document usage — iteration 43 (2018)
+- Update config — iteration 48 (2018)
