@@ -80,3 +80,4 @@ CREATE TABLE notes (
 - Add helper — iteration 54 (2017)
 - Minor cleanup — iteration 60 (2017)
 - Add feature — iteration 1 (2018)
+- Optimize performance — iteration 9 (2018)
