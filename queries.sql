@@ -62,3 +62,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Improve error handling — iteration 14 (2018)
 - Fix typo — iteration 17 (2018)
 - Refactor module — iteration 20 (2018)
+- Improve naming — iteration 22 (2018)
