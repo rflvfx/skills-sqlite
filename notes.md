@@ -58,3 +58,4 @@
 - Document usage — iteration 57 (2017)
 - Add example — iteration 58 (2017)
 - Update dependencies — iteration 4 (2018)
+- Fix lint warnings — iteration 6 (2018)
