@@ -84,3 +84,4 @@ CREATE TABLE notes (
 - Add helper — iteration 11 (2018)
 - Refactor module — iteration 12 (2018)
 - Update dependencies — iteration 15 (2018)
+- Polish code — iteration 18 (2018)
