@@ -65,3 +65,4 @@
 - Update dependencies — iteration 19 (2018)
 - Add validation — iteration 23 (2018)
 - Optimize performance — iteration 29 (2018)
+- Improve error handling — iteration 33 (2018)
