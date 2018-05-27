@@ -89,3 +89,4 @@ CREATE TABLE notes (
 - Minor cleanup — iteration 25 (2018)
 - Update dependencies — iteration 27 (2018)
 - Extend coverage — iteration 30 (2018)
+- Add helper — iteration 37 (2018)
