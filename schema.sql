@@ -92,3 +92,4 @@ CREATE TABLE notes (
 - Add helper — iteration 37 (2018)
 - Add example — iteration 38 (2018)
 - Add tests — iteration 40 (2018)
+- Fix lint warnings — iteration 41 (2018)
