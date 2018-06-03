@@ -68,3 +68,4 @@
 - Improve error handling — iteration 33 (2018)
 - Minor cleanup — iteration 35 (2018)
 - Extend coverage — iteration 39 (2018)
+- Improve naming — iteration 47 (2018)
