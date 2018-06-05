@@ -62,3 +62,4 @@
 - Tweak implementation — iteration 7 (2018)
 - Refactor module — iteration 13 (2018)
 - Fix typo — iteration 16 (2018)
+- Update dependencies — iteration 19 (2018)
