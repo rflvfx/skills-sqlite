@@ -71,3 +71,4 @@
 - Improve naming — iteration 47 (2018)
 - Optimize performance — iteration 49 (2018)
 - Polish code — iteration 53 (2018)
+- Fix typo — iteration 54 (2018)
