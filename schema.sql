@@ -90,3 +90,4 @@ CREATE TABLE notes (
 - Update dependencies — iteration 27 (2018)
 - Extend coverage — iteration 30 (2018)
 - Add helper — iteration 37 (2018)
+- Add example — iteration 38 (2018)
