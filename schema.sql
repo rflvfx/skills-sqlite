@@ -82,3 +82,4 @@ CREATE TABLE notes (
 - Add feature — iteration 1 (2018)
 - Optimize performance — iteration 9 (2018)
 - Add helper — iteration 11 (2018)
+- Refactor module — iteration 12 (2018)
