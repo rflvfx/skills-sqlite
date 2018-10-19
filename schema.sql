@@ -95,3 +95,4 @@ CREATE TABLE notes (
 - Fix lint warnings — iteration 41 (2018)
 - Fix lint warnings — iteration 42 (2018)
 - Update config — iteration 44 (2018)
+- Add tests — iteration 45 (2018)
