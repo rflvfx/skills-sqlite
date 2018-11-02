@@ -60,3 +60,4 @@
 - Update dependencies — iteration 4 (2018)
 - Fix lint warnings — iteration 6 (2018)
 - Tweak implementation — iteration 7 (2018)
+- Refactor module — iteration 13 (2018)
