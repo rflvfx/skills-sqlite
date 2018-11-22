@@ -73,3 +73,4 @@
 - Polish code — iteration 53 (2018)
 - Fix typo — iteration 54 (2018)
 - Add validation — iteration 56 (2018)
+- Fix lint warnings — iteration 58 (2018)
