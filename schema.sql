@@ -86,3 +86,4 @@ CREATE TABLE notes (
 - Update dependencies — iteration 15 (2018)
 - Polish code — iteration 18 (2018)
 - Add validation — iteration 21 (2018)
+- Minor cleanup — iteration 25 (2018)
