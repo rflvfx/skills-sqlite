@@ -57,3 +57,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Refactor module — iteration 2 (2018)
 - Add validation — iteration 3 (2018)
 - Add feature — iteration 5 (2018)
+- Document usage — iteration 8 (2018)
