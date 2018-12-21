@@ -91,3 +91,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 30 (2018)
 - Add helper — iteration 37 (2018)
 - Add example — iteration 38 (2018)
+- Add tests — iteration 40 (2018)
