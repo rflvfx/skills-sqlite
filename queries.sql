@@ -90,3 +90,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add feature — iteration 42 (2019)
 - Add helper — iteration 43 (2019)
 - Minor cleanup — iteration 46 (2019)
+- Minor cleanup — iteration 47 (2019)
