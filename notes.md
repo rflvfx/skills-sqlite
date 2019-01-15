@@ -88,3 +88,4 @@
 - Add tests — iteration 33 (2019)
 - Add validation — iteration 35 (2019)
 - Optimize performance — iteration 38 (2019)
+- Update docs — iteration 45 (2019)
