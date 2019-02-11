@@ -111,3 +111,4 @@ CREATE TABLE notes (
 - Update config — iteration 21 (2019)
 - Tweak implementation — iteration 22 (2019)
 - Add tests — iteration 25 (2019)
+- Minor cleanup — iteration 27 (2019)
