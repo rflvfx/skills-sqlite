@@ -79,3 +79,4 @@
 - Update dependencies — iteration 7 (2019)
 - Add example — iteration 9 (2019)
 - Update config — iteration 11 (2019)
+- Add feature — iteration 13 (2019)
