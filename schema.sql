@@ -107,3 +107,4 @@ CREATE TABLE notes (
 - Add helper — iteration 14 (2019)
 - Fix edge case — iteration 16 (2019)
 - Update config — iteration 18 (2019)
+- Improve error handling — iteration 19 (2019)
