@@ -110,3 +110,4 @@ CREATE TABLE notes (
 - Improve error handling — iteration 19 (2019)
 - Update config — iteration 21 (2019)
 - Tweak implementation — iteration 22 (2019)
+- Add tests — iteration 25 (2019)
