@@ -77,3 +77,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add validation — iteration 1 (2019)
 - Add tests — iteration 2 (2019)
 - Update dependencies — iteration 6 (2019)
+- Add helper — iteration 8 (2019)
