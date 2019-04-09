@@ -74,3 +74,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update config — iteration 48 (2018)
 - Fix lint warnings — iteration 55 (2018)
 - Update docs — iteration 59 (2018)
+- Add validation — iteration 1 (2019)
