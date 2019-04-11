@@ -92,3 +92,4 @@
 - Add example — iteration 50 (2019)
 - Refactor module — iteration 53 (2019)
 - Tweak implementation — iteration 55 (2019)
+- Update dependencies — iteration 59 (2019)
