@@ -91,3 +91,4 @@
 - Update docs — iteration 45 (2019)
 - Add example — iteration 50 (2019)
 - Refactor module — iteration 53 (2019)
+- Tweak implementation — iteration 55 (2019)
