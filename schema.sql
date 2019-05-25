@@ -118,3 +118,4 @@ CREATE TABLE notes (
 - Add feature — iteration 44 (2019)
 - Improve naming — iteration 51 (2019)
 - Refactor module — iteration 52 (2019)
+- Add validation — iteration 57 (2019)
