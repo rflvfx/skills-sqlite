@@ -80,3 +80,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add helper — iteration 8 (2019)
 - Fix edge case — iteration 20 (2019)
 - Tweak implementation — iteration 23 (2019)
+- Update docs — iteration 26 (2019)
