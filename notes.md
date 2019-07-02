@@ -83,3 +83,4 @@
 - Add helper — iteration 15 (2019)
 - Improve error handling — iteration 17 (2019)
 - Document usage — iteration 24 (2019)
+- Add feature — iteration 31 (2019)
