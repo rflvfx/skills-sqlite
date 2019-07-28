@@ -113,3 +113,4 @@ CREATE TABLE notes (
 - Add tests — iteration 25 (2019)
 - Minor cleanup — iteration 27 (2019)
 - Document usage — iteration 30 (2019)
+- Refactor module — iteration 36 (2019)
