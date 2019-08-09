@@ -105,3 +105,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 10 (2019)
 - Optimize performance — iteration 12 (2019)
 - Add helper — iteration 14 (2019)
+- Fix edge case — iteration 16 (2019)
