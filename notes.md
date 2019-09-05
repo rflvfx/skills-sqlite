@@ -80,3 +80,4 @@
 - Add example — iteration 9 (2019)
 - Update config — iteration 11 (2019)
 - Add feature — iteration 13 (2019)
+- Add helper — iteration 15 (2019)
