@@ -81,3 +81,4 @@
 - Update config — iteration 11 (2019)
 - Add feature — iteration 13 (2019)
 - Add helper — iteration 15 (2019)
+- Improve error handling — iteration 17 (2019)
