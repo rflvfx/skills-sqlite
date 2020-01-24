@@ -110,3 +110,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix typo — iteration 27 (2020)
 - Refactor module — iteration 31 (2020)
 - Document usage — iteration 32 (2020)
+- Add validation — iteration 33 (2020)
