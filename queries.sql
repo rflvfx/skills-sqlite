@@ -98,3 +98,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add feature — iteration 58 (2019)
 - Document usage — iteration 3 (2020)
 - Add helper — iteration 7 (2020)
+- Optimize performance — iteration 9 (2020)
