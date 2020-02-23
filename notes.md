@@ -97,3 +97,4 @@
 - Add helper — iteration 2 (2020)
 - Improve naming — iteration 6 (2020)
 - Update dependencies — iteration 13 (2020)
+- Fix edge case — iteration 22 (2020)
