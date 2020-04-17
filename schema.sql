@@ -132,3 +132,4 @@ CREATE TABLE notes (
 - Add validation — iteration 34 (2020)
 - Polish code — iteration 35 (2020)
 - Fix typo — iteration 40 (2020)
+- Update dependencies — iteration 41 (2020)
