@@ -104,3 +104,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Minor cleanup — iteration 15 (2020)
 - Update config — iteration 17 (2020)
 - Update config — iteration 19 (2020)
+- Add validation — iteration 21 (2020)
