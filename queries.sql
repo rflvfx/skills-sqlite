@@ -119,3 +119,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Polish code — iteration 53 (2020)
 - Extend coverage — iteration 54 (2020)
 - Add validation — iteration 55 (2020)
+- Fix typo — iteration 58 (2020)
