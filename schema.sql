@@ -120,3 +120,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 52 (2019)
 - Add validation — iteration 57 (2019)
 - Fix lint warnings — iteration 60 (2019)
+- Improve error handling — iteration 4 (2020)
