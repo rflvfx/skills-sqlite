@@ -93,3 +93,4 @@
 - Refactor module — iteration 53 (2019)
 - Tweak implementation — iteration 55 (2019)
 - Update dependencies — iteration 59 (2019)
+- Minor cleanup — iteration 1 (2020)
