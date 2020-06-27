@@ -122,3 +122,4 @@ CREATE TABLE notes (
 - Fix lint warnings — iteration 60 (2019)
 - Improve error handling — iteration 4 (2020)
 - Update config — iteration 5 (2020)
+- Improve error handling — iteration 8 (2020)
