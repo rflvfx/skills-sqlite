@@ -124,3 +124,4 @@ CREATE TABLE notes (
 - Update config — iteration 5 (2020)
 - Improve error handling — iteration 8 (2020)
 - Fix typo — iteration 10 (2020)
+- Extend coverage — iteration 12 (2020)
