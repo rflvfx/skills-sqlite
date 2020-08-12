@@ -121,3 +121,4 @@ CREATE TABLE notes (
 - Add validation — iteration 57 (2019)
 - Fix lint warnings — iteration 60 (2019)
 - Improve error handling — iteration 4 (2020)
+- Update config — iteration 5 (2020)
