@@ -95,3 +95,4 @@
 - Update dependencies — iteration 59 (2019)
 - Minor cleanup — iteration 1 (2020)
 - Add helper — iteration 2 (2020)
+- Improve naming — iteration 6 (2020)
