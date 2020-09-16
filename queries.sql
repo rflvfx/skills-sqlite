@@ -112,3 +112,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Document usage — iteration 32 (2020)
 - Add validation — iteration 33 (2020)
 - Improve naming — iteration 38 (2020)
+- Add helper — iteration 45 (2020)
