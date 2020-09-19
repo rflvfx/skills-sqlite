@@ -129,3 +129,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 18 (2020)
 - Improve naming — iteration 20 (2020)
 - Update dependencies — iteration 28 (2020)
+- Add validation — iteration 34 (2020)
