@@ -127,3 +127,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 12 (2020)
 - Optimize performance — iteration 16 (2020)
 - Fix edge case — iteration 18 (2020)
+- Improve naming — iteration 20 (2020)
