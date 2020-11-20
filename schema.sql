@@ -128,3 +128,4 @@ CREATE TABLE notes (
 - Optimize performance — iteration 16 (2020)
 - Fix edge case — iteration 18 (2020)
 - Improve naming — iteration 20 (2020)
+- Update dependencies — iteration 28 (2020)
