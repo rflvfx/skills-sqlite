@@ -101,3 +101,4 @@
 - Add example — iteration 24 (2020)
 - Update docs — iteration 25 (2020)
 - Update docs — iteration 29 (2020)
+- Refactor module — iteration 30 (2020)
