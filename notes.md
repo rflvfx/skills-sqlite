@@ -107,3 +107,4 @@
 - Add validation — iteration 39 (2020)
 - Update docs — iteration 44 (2020)
 - Add tests — iteration 46 (2020)
+- Refactor module — iteration 47 (2020)
