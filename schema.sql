@@ -157,3 +157,4 @@ CREATE TABLE notes (
 - Polish code — iteration 38 (2021)
 - Add feature — iteration 39 (2021)
 - Fix typo — iteration 40 (2021)
+- Improve error handling — iteration 47 (2021)
