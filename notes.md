@@ -127,3 +127,4 @@
 - Optimize performance — iteration 52 (2021)
 - Polish code — iteration 53 (2021)
 - Polish code — iteration 54 (2021)
+- Improve error handling — iteration 56 (2021)
