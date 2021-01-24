@@ -153,3 +153,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 33 (2021)
 - Update dependencies — iteration 35 (2021)
 - Add example — iteration 36 (2021)
+- Fix lint warnings — iteration 37 (2021)
