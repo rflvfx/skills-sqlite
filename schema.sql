@@ -150,3 +150,4 @@ CREATE TABLE notes (
 - Add validation — iteration 22 (2021)
 - Add tests — iteration 25 (2021)
 - Optimize performance — iteration 30 (2021)
+- Extend coverage — iteration 33 (2021)
