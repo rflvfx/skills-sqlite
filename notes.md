@@ -113,3 +113,4 @@
 - Refactor module — iteration 59 (2020)
 - Add example — iteration 2 (2021)
 - Fix typo — iteration 3 (2021)
+- Add example — iteration 7 (2021)
