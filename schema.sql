@@ -146,3 +146,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 12 (2021)
 - Fix edge case — iteration 13 (2021)
 - Document usage — iteration 17 (2021)
+- Polish code — iteration 20 (2021)
