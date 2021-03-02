@@ -143,3 +143,4 @@ CREATE TABLE notes (
 - Improve naming — iteration 6 (2021)
 - Tweak implementation — iteration 8 (2021)
 - Extend coverage — iteration 11 (2021)
+- Refactor module — iteration 12 (2021)
