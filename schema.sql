@@ -147,3 +147,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 13 (2021)
 - Document usage — iteration 17 (2021)
 - Polish code — iteration 20 (2021)
+- Add validation — iteration 22 (2021)
