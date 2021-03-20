@@ -128,3 +128,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Improve error handling — iteration 24 (2021)
 - Add validation — iteration 26 (2021)
 - Refactor module — iteration 27 (2021)
+- Refactor module — iteration 28 (2021)
