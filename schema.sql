@@ -144,3 +144,4 @@ CREATE TABLE notes (
 - Tweak implementation — iteration 8 (2021)
 - Extend coverage — iteration 11 (2021)
 - Refactor module — iteration 12 (2021)
+- Fix edge case — iteration 13 (2021)
