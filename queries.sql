@@ -125,3 +125,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Optimize performance — iteration 10 (2021)
 - Fix edge case — iteration 15 (2021)
 - Optimize performance — iteration 23 (2021)
+- Improve error handling — iteration 24 (2021)
