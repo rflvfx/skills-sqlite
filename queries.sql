@@ -138,3 +138,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix lint warnings — iteration 50 (2021)
 - Add feature — iteration 51 (2021)
 - Add feature — iteration 55 (2021)
+- Add example — iteration 59 (2021)
