@@ -118,3 +118,4 @@
 - Add feature — iteration 16 (2021)
 - Improve error handling — iteration 18 (2021)
 - Minor cleanup — iteration 19 (2021)
+- Document usage — iteration 21 (2021)
