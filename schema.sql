@@ -138,3 +138,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 48 (2020)
 - Improve naming — iteration 51 (2020)
 - Refactor module — iteration 60 (2020)
+- Add tests — iteration 1 (2021)
