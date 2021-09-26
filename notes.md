@@ -114,3 +114,4 @@
 - Add example — iteration 2 (2021)
 - Fix typo — iteration 3 (2021)
 - Add example — iteration 7 (2021)
+- Optimize performance — iteration 14 (2021)
