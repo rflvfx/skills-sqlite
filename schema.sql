@@ -148,3 +148,4 @@ CREATE TABLE notes (
 - Document usage — iteration 17 (2021)
 - Polish code — iteration 20 (2021)
 - Add validation — iteration 22 (2021)
+- Add tests — iteration 25 (2021)
