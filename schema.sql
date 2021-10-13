@@ -151,3 +151,4 @@ CREATE TABLE notes (
 - Add tests — iteration 25 (2021)
 - Optimize performance — iteration 30 (2021)
 - Extend coverage — iteration 33 (2021)
+- Update dependencies — iteration 35 (2021)
