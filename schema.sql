@@ -159,3 +159,4 @@ CREATE TABLE notes (
 - Fix typo — iteration 40 (2021)
 - Improve error handling — iteration 47 (2021)
 - Fix typo — iteration 49 (2021)
+- Extend coverage — iteration 58 (2021)
