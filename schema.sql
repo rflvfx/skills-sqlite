@@ -162,3 +162,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 58 (2021)
 - Add feature — iteration 60 (2021)
 - Minor cleanup — iteration 4 (2022)
+- Fix typo — iteration 8 (2022)
