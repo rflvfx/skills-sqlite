@@ -147,3 +147,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add tests — iteration 13 (2022)
 - Improve error handling — iteration 14 (2022)
 - Update dependencies — iteration 15 (2022)
+- Improve error handling — iteration 22 (2022)
