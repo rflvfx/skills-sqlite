@@ -132,3 +132,4 @@
 - Add helper — iteration 1 (2022)
 - Add feature — iteration 3 (2022)
 - Document usage — iteration 12 (2022)
+- Refactor module — iteration 16 (2022)
