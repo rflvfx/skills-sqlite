@@ -131,3 +131,4 @@
 - Minor cleanup — iteration 57 (2021)
 - Add helper — iteration 1 (2022)
 - Add feature — iteration 3 (2022)
+- Document usage — iteration 12 (2022)
