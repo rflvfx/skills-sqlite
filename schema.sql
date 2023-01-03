@@ -203,3 +203,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 42 (2023)
 - Fix typo — iteration 43 (2023)
 - Update dependencies — iteration 47 (2023)
+- Document usage — iteration 50 (2023)
