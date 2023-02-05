@@ -195,3 +195,4 @@ CREATE TABLE notes (
 - Minor cleanup — iteration 19 (2023)
 - Update docs — iteration 23 (2023)
 - Tweak implementation — iteration 30 (2023)
+- Document usage — iteration 31 (2023)
