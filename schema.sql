@@ -185,3 +185,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 1 (2023)
 - Add helper — iteration 2 (2023)
 - Update config — iteration 5 (2023)
+- Update docs — iteration 6 (2023)
