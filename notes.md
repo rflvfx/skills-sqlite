@@ -150,3 +150,4 @@
 - Improve naming — iteration 53 (2022)
 - Update docs — iteration 57 (2022)
 - Add validation — iteration 3 (2023)
+- Refactor module — iteration 13 (2023)
