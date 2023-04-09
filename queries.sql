@@ -168,3 +168,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add example — iteration 26 (2023)
 - Fix edge case — iteration 28 (2023)
 - Document usage — iteration 33 (2023)
+- Fix typo — iteration 35 (2023)
