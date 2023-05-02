@@ -157,3 +157,4 @@
 - Polish code — iteration 25 (2023)
 - Add helper — iteration 27 (2023)
 - Optimize performance — iteration 29 (2023)
+- Document usage — iteration 32 (2023)
