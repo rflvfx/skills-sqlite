@@ -198,3 +198,4 @@ CREATE TABLE notes (
 - Document usage — iteration 31 (2023)
 - Refactor module — iteration 34 (2023)
 - Extend coverage — iteration 37 (2023)
+- Improve naming — iteration 38 (2023)
