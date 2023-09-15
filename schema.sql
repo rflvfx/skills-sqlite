@@ -191,3 +191,4 @@ CREATE TABLE notes (
 - Fix typo — iteration 14 (2023)
 - Update dependencies — iteration 16 (2023)
 - Update config — iteration 17 (2023)
+- Add helper — iteration 18 (2023)
