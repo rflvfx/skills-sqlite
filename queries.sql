@@ -158,3 +158,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Refactor module — iteration 49 (2022)
 - Extend coverage — iteration 50 (2022)
 - Add feature — iteration 58 (2022)
+- Fix typo — iteration 4 (2023)
