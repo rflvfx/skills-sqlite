@@ -194,3 +194,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Fix lint warnings — iteration 42 (2024)
 - Fix typo — iteration 44 (2024)
 - Document usage — iteration 48 (2024)
+- Add validation — iteration 49 (2024)
