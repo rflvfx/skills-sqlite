@@ -176,3 +176,4 @@
 - Update dependencies — iteration 36 (2024)
 - Update docs — iteration 37 (2024)
 - Document usage — iteration 41 (2024)
+- Fix edge case — iteration 43 (2024)
