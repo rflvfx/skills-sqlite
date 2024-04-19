@@ -174,3 +174,4 @@
 - Tweak implementation — iteration 33 (2024)
 - Add example — iteration 34 (2024)
 - Update dependencies — iteration 36 (2024)
+- Update docs — iteration 37 (2024)
