@@ -218,3 +218,4 @@ CREATE TABLE notes (
 - Tweak implementation — iteration 20 (2024)
 - Optimize performance — iteration 21 (2024)
 - Add feature — iteration 23 (2024)
+- Improve error handling — iteration 24 (2024)
