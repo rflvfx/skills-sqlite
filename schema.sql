@@ -216,3 +216,4 @@ CREATE TABLE notes (
 - Extend coverage — iteration 7 (2024)
 - Improve error handling — iteration 17 (2024)
 - Tweak implementation — iteration 20 (2024)
+- Optimize performance — iteration 21 (2024)
