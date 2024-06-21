@@ -214,3 +214,4 @@ CREATE TABLE notes (
 - Refactor module — iteration 4 (2024)
 - Update config — iteration 5 (2024)
 - Extend coverage — iteration 7 (2024)
+- Improve error handling — iteration 17 (2024)
