@@ -177,3 +177,4 @@
 - Update docs — iteration 37 (2024)
 - Document usage — iteration 41 (2024)
 - Fix edge case — iteration 43 (2024)
+- Improve naming — iteration 47 (2024)
