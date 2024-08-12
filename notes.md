@@ -173,3 +173,4 @@
 - Improve error handling — iteration 32 (2024)
 - Tweak implementation — iteration 33 (2024)
 - Add example — iteration 34 (2024)
+- Update dependencies — iteration 36 (2024)
