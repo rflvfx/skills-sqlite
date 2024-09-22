@@ -179,3 +179,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add helper — iteration 8 (2024)
 - Add tests — iteration 10 (2024)
 - Add validation — iteration 11 (2024)
+- Add validation — iteration 13 (2024)
