@@ -190,3 +190,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Document usage — iteration 30 (2024)
 - Update dependencies — iteration 35 (2024)
 - Minor cleanup — iteration 39 (2024)
+- Document usage — iteration 40 (2024)
