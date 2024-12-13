@@ -187,3 +187,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Refactor module — iteration 25 (2024)
 - Optimize performance — iteration 26 (2024)
 - Update dependencies — iteration 28 (2024)
+- Document usage — iteration 30 (2024)
