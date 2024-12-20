@@ -175,3 +175,4 @@
 - Add example — iteration 34 (2024)
 - Update dependencies — iteration 36 (2024)
 - Update docs — iteration 37 (2024)
+- Document usage — iteration 41 (2024)
