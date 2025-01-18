@@ -185,3 +185,4 @@
 - Fix typo — iteration 10 (2025)
 - Tweak implementation — iteration 14 (2025)
 - Add tests — iteration 15 (2025)
+- Fix edge case — iteration 18 (2025)
