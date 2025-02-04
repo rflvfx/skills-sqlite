@@ -243,3 +243,4 @@ CREATE TABLE notes (
 - Document usage — iteration 32 (2025)
 - Tweak implementation — iteration 34 (2025)
 - Optimize performance — iteration 35 (2025)
+- Improve error handling — iteration 38 (2025)
