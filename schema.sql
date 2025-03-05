@@ -236,3 +236,4 @@ CREATE TABLE notes (
 - Fix lint warnings — iteration 12 (2025)
 - Add example — iteration 16 (2025)
 - Add tests — iteration 17 (2025)
+- Update docs — iteration 25 (2025)
