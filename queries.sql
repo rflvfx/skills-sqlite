@@ -204,3 +204,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Tweak implementation — iteration 3 (2025)
 - Refactor module — iteration 4 (2025)
 - Update dependencies — iteration 8 (2025)
+- Document usage — iteration 13 (2025)
