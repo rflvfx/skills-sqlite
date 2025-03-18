@@ -189,3 +189,4 @@
 - Document usage — iteration 19 (2025)
 - Update docs — iteration 20 (2025)
 - Improve error handling — iteration 21 (2025)
+- Add validation — iteration 22 (2025)
