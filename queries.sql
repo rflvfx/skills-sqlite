@@ -207,3 +207,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Document usage — iteration 13 (2025)
 - Minor cleanup — iteration 23 (2025)
 - Polish code — iteration 24 (2025)
+- Minor cleanup — iteration 30 (2025)
