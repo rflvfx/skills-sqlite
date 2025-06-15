@@ -212,3 +212,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Update docs — iteration 33 (2025)
 - Extend coverage — iteration 36 (2025)
 - Refactor module — iteration 37 (2025)
+- Add helper — iteration 39 (2025)
