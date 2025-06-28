@@ -231,3 +231,4 @@ CREATE TABLE notes (
 - Add tests — iteration 2 (2025)
 - Add validation — iteration 5 (2025)
 - Update dependencies — iteration 6 (2025)
+- Improve error handling — iteration 9 (2025)
