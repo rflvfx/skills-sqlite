@@ -190,3 +190,4 @@
 - Update docs — iteration 20 (2025)
 - Improve error handling — iteration 21 (2025)
 - Add validation — iteration 22 (2025)
+- Improve naming — iteration 28 (2025)
