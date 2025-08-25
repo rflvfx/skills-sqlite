@@ -248,3 +248,4 @@ CREATE TABLE notes (
 - Polish code — iteration 44 (2025)
 - Update config — iteration 47 (2025)
 - Fix edge case — iteration 50 (2025)
+- Update docs — iteration 53 (2025)
