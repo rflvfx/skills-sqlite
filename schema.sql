@@ -235,3 +235,4 @@ CREATE TABLE notes (
 - Improve error handling — iteration 11 (2025)
 - Fix lint warnings — iteration 12 (2025)
 - Add example — iteration 16 (2025)
+- Add tests — iteration 17 (2025)
