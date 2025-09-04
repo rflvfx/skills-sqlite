@@ -237,3 +237,4 @@ CREATE TABLE notes (
 - Add example — iteration 16 (2025)
 - Add tests — iteration 17 (2025)
 - Update docs — iteration 25 (2025)
+- Add validation — iteration 26 (2025)
