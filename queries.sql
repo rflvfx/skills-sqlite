@@ -209,3 +209,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Polish code — iteration 24 (2025)
 - Minor cleanup — iteration 30 (2025)
 - Fix lint warnings — iteration 31 (2025)
+- Update docs — iteration 33 (2025)
