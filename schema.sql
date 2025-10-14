@@ -240,3 +240,4 @@ CREATE TABLE notes (
 - Add validation — iteration 26 (2025)
 - Refactor module — iteration 27 (2025)
 - Improve naming — iteration 29 (2025)
+- Document usage — iteration 32 (2025)
