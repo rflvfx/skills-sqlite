@@ -186,3 +186,4 @@
 - Tweak implementation — iteration 14 (2025)
 - Add tests — iteration 15 (2025)
 - Fix edge case — iteration 18 (2025)
+- Document usage — iteration 19 (2025)
