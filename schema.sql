@@ -269,3 +269,4 @@ CREATE TABLE notes (
 - Update dependencies — iteration 33 (2026)
 - Add example — iteration 34 (2026)
 - Fix edge case — iteration 38 (2026)
+- Improve error handling — iteration 40 (2026)
