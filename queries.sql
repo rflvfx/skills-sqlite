@@ -227,3 +227,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Polish code — iteration 13 (2026)
 - Improve error handling — iteration 16 (2026)
 - Improve error handling — iteration 17 (2026)
+- Optimize performance — iteration 18 (2026)
