@@ -275,3 +275,4 @@ CREATE TABLE notes (
 - Add feature — iteration 51 (2026)
 - Refactor module — iteration 52 (2026)
 - Extend coverage — iteration 54 (2026)
+- Update docs — iteration 56 (2026)
