@@ -257,3 +257,4 @@ CREATE TABLE notes (
 - Fix edge case — iteration 2 (2026)
 - Update docs — iteration 3 (2026)
 - Improve naming — iteration 7 (2026)
+- Improve error handling — iteration 8 (2026)
