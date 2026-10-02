@@ -264,3 +264,4 @@ CREATE TABLE notes (
 - Polish code — iteration 19 (2026)
 - Add validation — iteration 22 (2026)
 - Add helper — iteration 27 (2026)
+- Polish code — iteration 28 (2026)
