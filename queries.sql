@@ -224,3 +224,4 @@ SELECT * FROM notes WHERE title LIKE '%ir%';
 - Add validation — iteration 6 (2026)
 - Add tests — iteration 9 (2026)
 - Add example — iteration 12 (2026)
+- Polish code — iteration 13 (2026)
