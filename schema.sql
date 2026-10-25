@@ -265,3 +265,4 @@ CREATE TABLE notes (
 - Add validation — iteration 22 (2026)
 - Add helper — iteration 27 (2026)
 - Polish code — iteration 28 (2026)
+- Fix edge case — iteration 31 (2026)
